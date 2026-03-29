@@ -8,7 +8,7 @@ This is a simple Python project designed to help users identify months and seaso
 - Clean and easy-to-read Python logic.
 
  Technologies Used:
-- Language: Python 3.x
+- Language: Python
 - Tools: Git & GitHub
 
  How to Run:
